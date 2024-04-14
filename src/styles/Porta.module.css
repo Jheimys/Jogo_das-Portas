@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .area{
     position: relative;
     display: flex;
@@ -16,18 +17,26 @@
     border-right: 5px solid brown;
     width: 90%;
 }
+=======
+>>>>>>> 1cdd1421345e6ddab64d6debf45a376909bafb97
 
 .porta{
     display: flex;
     flex-direction: column;
     background-color: chocolate;
     align-items: center;
+<<<<<<< HEAD
     flex-grow: 1;
+=======
+    width: 200px;
+    height: 310px;
+>>>>>>> 1cdd1421345e6ddab64d6debf45a376909bafb97
     padding: 15px;
 }
 
 .numero{
     font-size: 3rem;
+<<<<<<< HEAD
 }
 
 .macaneta{
@@ -59,4 +68,6 @@
 
 .selecionada .macaneta{
     background-color: yellow;
+=======
+>>>>>>> 1cdd1421345e6ddab64d6debf45a376909bafb97
 }
